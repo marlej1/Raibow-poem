@@ -1,4 +1,7 @@
 The rainbow
 
-Purple, yellow, green
+Purple,
+yellow,
+green,
+blue,
 Those are the colours of a rainbow
