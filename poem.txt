@@ -4,6 +4,7 @@ Purple,
 yellow,
 green,
 blue,
-pink
+pink,
+indigo,
 Those are the colours of a rainbow
 and the unicorn
